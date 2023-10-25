@@ -1,6 +1,6 @@
 {
   "name": "react-mic-visualizer",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A React component that visualizes the microphone input",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
