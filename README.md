@@ -1,5 +1,7 @@
 ## react-mic-visualizer
 
+React mic/audio visualizer component.
+
 <br />
 
 <img src="./assets/example.gif" alt="example" style="width:300px;" />

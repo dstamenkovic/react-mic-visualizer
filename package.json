@@ -19,7 +19,8 @@
     "react mic visualizer",
     "react audio visualizer",
     "mic animation",
-    "mic visualizer"
+    "mic visualizer",
+    "audio visualizer"
   ],
   "homepage": "https://github.com/dstamenkovic/react-mic-visualizer#readme",
   "author": "Dušan Stamenković",
