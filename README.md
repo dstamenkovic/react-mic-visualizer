@@ -1,4 +1,6 @@
-## react-mic-visualizer
+## react-mic-visualizer - DELETED
+
+### Deleted the package - not very useful.
 
 React mic/audio visualizer component.
 
@@ -6,11 +8,6 @@ React mic/audio visualizer component.
 
 <img src="./assets/example.gif" alt="example" style="width:300px;" />
 
-## Usage
-
-```
-npm i react-mic-visualizer
-```
 
 #### Basic example
 
