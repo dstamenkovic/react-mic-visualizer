@@ -2,6 +2,8 @@
 
 ### Deleted the package - not very useful.
 
+### If anyone wants to use this component, just copy the code/component from [here](https://github.com/dstamenkovic/react-mic-visualizer/blob/main/src/Bars.tsx).
+
 React mic/audio visualizer component.
 
 <br />
